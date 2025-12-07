@@ -19,3 +19,5 @@ python-dotenv
 numpy
 pillow
 requests
+python-multipart
+reportlab
